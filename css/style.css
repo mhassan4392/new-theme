@@ -42,4 +42,7 @@ table td , table th{
     table td , table th{
         padding: 10px !important;
     }
+    .sexo , .sexo-input{
+        font-size: 0.9rem;
+    }
   }
